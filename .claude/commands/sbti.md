@@ -1,6 +1,6 @@
 # sbti
 
-运行 SBTI（Shadow BTIBased Introversion）性格测试。
+运行 SBTI 性格测试。
 
 ## 使用方式
 
